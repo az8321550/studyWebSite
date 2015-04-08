@@ -1,4 +1,4 @@
 # studyWebSite
 My collection for study web.
 
-(http://www.imooc.com/wenda/detail/252525)[http://www.imooc.com/wenda/detail/252525]
+[https://github.com/az8321550/studyWebSite/blob/master/README.md](https://github.com/az8321550/studyWebSite/blob/master/README.md)
